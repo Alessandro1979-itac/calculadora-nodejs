@@ -1,0 +1,20 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "pacote calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Alessandro Muniz",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "jest": "^25.5.0"
+  },
+  "devDependencies": {
+  }
+}
